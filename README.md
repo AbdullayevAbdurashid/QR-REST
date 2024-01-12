@@ -23,3 +23,22 @@ As QR Rest is no longer in active development, it can be deployed as a standalon
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/your-username/qr-rest.git
+Set up the necessary environment variables and configuration.
+
+Deploy the application using your preferred hosting solution.
+
+For more detailed information, refer to the original CDRest Documentation as QR Rest inherits many aspects from CDRest.
+
+Contributing
+As QR Rest is no longer actively developed, we do not accept contributions. Feel free to use and modify the application to suit your needs.
+
+License
+QR Rest inherits the license from the original CDRest project. Please refer to the CDRest License for more details.
+
+For historical purposes, you can still explore the original CDRest project at CDRest Repository.
+
+For any inquiries or further information, please contact info@qrrest.com.
+
+Follow us on Twitter for updates on other projects.
+
+Thank you for your support and interest in QR Rest!
